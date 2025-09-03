@@ -1,0 +1,5 @@
+{
+  "name": "React Reusable Components Library",
+  "description": "A showcase of a reusable component library built with React, TypeScript, and Tailwind CSS. It includes a Button, Modal, Form Input, and a sortable Table/Data Grid.",
+  "requestFramePermissions": []
+}
